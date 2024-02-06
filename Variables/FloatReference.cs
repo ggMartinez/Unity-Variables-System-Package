@@ -4,10 +4,10 @@ using System;
 public class FloatReference
 {
    public bool UseConstant = true;
-   public int ConstantValue;
+   public float ConstantValue;
    public FloatVariable Variable;
 
-   public int Value 
+   public float Value 
    {
         get { return UseConstant ? ConstantValue : Variable.Value; }
    }

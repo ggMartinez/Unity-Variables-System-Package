@@ -1,6 +1,6 @@
 {
   "name": "com.windmaster.variablessystem",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Variables System",
   "description": "A Package for implementing a Variables System using Scriptable Objects.\n\nBased and inspired on this video: https://www.youtube.com/watch?v=raQ3iHhE_Kk",
   "unity": "2022.3",
