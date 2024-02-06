@@ -1,0 +1,18 @@
+{
+  "name": "com.windmaster.variablessystem",
+  "version": "0.1.0",
+  "displayName": "Variables System",
+  "description": "A Package for implementing a Variables System using Scriptable Objects.\n\nBased and inspired on this video: https://www.youtube.com/watch?v=raQ3iHhE_Kk",
+  "unity": "2022.3",
+  "unityRelease": "15f1",
+  "documentationUrl": "https://example.com/",
+  "licensesUrl": "https://github.com/ggMartinez/Unity-Variables-System-Package/blob/main/LICENSE",
+  "keywords": [
+    "Variables"
+  ],
+  "author": {
+    "name": "Gonzalo Martinez",
+    "email": "ggmartinez.utu@gmail.com",
+    "url": "https://master-of-the-wind.itch.io/"
+  }
+}
